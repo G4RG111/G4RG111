@@ -1,5 +1,5 @@
 ## About Me:
-💻Python Data Analyst and Front End Developer<br>📊I am currently working on machine learning projects<br>🌱I am currently exploring the field of Image processing and computer vision <br>
+ <br>
 
 
 ## Socials:
