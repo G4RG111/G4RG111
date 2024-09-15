@@ -1,5 +1,5 @@
 ## About Me:
- <br>
+ Python Data Analyst<br> Machine Learning Enthusiast
 
 
 ## Socials:
